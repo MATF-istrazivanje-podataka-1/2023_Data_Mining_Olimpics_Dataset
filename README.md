@@ -13,6 +13,7 @@ Cilj ovog projekta jeste sprovođenje detaljne analize podataka i, pomoću razni
 
 Dodatne biblioteke za rad: pandas, numpy, matplotlib, sklearn, seaborn, joblib.
 Možete ih instalirati pokretanjem komande u terminalu: 
+
 ```pip install pandas numpy matplotlib sklearn seaborn joblib```
 
 
