@@ -3,7 +3,11 @@
 Autor: Marko Paunović 104/2020
 
 
-Olimpijske igre su jedna od najznačajnijih sportskih manifestacija na svetu, događaj koji se održava na svake 4 godine i u kojem učestvuju hiljade sportista širom sveta takmičući se za medalje u različitim sportskim disciplinama.
+Olimpijske igre su jedna od najznačajnijih sportskih manifestacija na svetu, događaj koji se održava na svake 4 godine i u kojem učestvuju hiljade sportista širom sveta takmičući se za medalje u različitim sportskim disciplinama. 
+
+Cilj ovog projekta je da istražimo obrasce i trendove u istorijskim rezultatima
+Olimpijskih igara kako bismo bolje razumeli faktore koji su uticali na uspeh
+sportista tokom vremena.
 
 Skup podataka Olympic Data možete naći na sajtu Kaggle pomoću linka: https://www.kaggle.com/datasets/bhanupratapbiswas/olympic-data
 
